@@ -11,7 +11,7 @@
  - Voit myös ladata molemmat yhtenä kansiona jos olet kokeneempi githubin käyttäjä
  - Pistä molemmat lataamasi tiedostot yhteen kansioon tietokoneella .
  - Tämän käyttöä varten sinulla pitää olla ladattuna python ja joku koodieditori.
-     - voit käyttää mitä vain koodieditoria, mutta suosittelen [Sublime Textiä](https://github.com/Zan0Ves/coursepicker/blob/main/README.md).
+     - voit käyttää mitä vain koodieditoria, mutta suosittelen [Sublime Textiä](https://www.sublimetext.com).
  - Pythonin voi ladata helposti ja nopeasti [Microsoft Storesta](https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-US&gl=US)
  - Jotta koodi toimii, sinun on asennettava selenium.
  - Se pitää tehdä pythonin jälkeen
