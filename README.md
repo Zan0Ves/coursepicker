@@ -17,7 +17,7 @@
  - Kirjoita sinne **pip install selenium**, paina enter ja odota, että selenium asentuu.
 
 
-[Video-ohje](https://www.youtube.com/watch?v=Tp0cM2fn9U0)
+[Video-ohje]([https://www.youtube.com/watch?v=Tp0cM2fn9U0](https://www.youtube.com/watch?v=_TIRUyn3nkU)
 
 
 **Kannattaa tarkistaa se toimiiko koodi ennen kun kurssitarjotin avautuu, koska joskus voit vahingossa laittaa väärän kurssin koodiin tai tehdä jotain muita virheitä**
